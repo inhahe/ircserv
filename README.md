@@ -1,2 +1,1 @@
-# ircserv
-Python IRC server. Probably doesn't work very well.
+Here's an (incomplete) IRC server I wrote in Python. It was a while ago, I don't remember specifically what I implemented and what I didn't or how well it worked. I thought I remembered not being able to connect to it at all, but the comments in the source seem to indicate otherwise. I don't believe I implemented support for peer servers. Uses Twisted.
