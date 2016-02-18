@@ -1,1 +1,3 @@
 Here's an (incomplete) IRC server I wrote in Python. It was a while ago, I don't remember specifically what I implemented and what I didn't or how well it worked. I thought I remembered not being able to connect to it at all, but the comments in the source seem to indicate otherwise. I don't believe I implemented support for peer servers. Uses Twisted.
+
+I remember being kind of amiss as to why certain features weren't working right, as the code was rather simple and seemed to conform perfectly to the IRC specifications. I guess the only way to really tell is to network sniff the interactions between a <i>real</i> IRC server and a client and compare. 
